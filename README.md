@@ -1,3 +1,6 @@
+# how authenticate with github  
+
+https://youtu.be/vs2ninGqLBM
 
 ## Laravel social Auth (Github)
 
@@ -19,4 +22,4 @@ add client_id and secret in .env file
 - GITHUB_CLIENT_ID = 
 - GITHUB_CLIENT_SECRET = 
 
-- add driver data in config/service.php file 
+- add driver data in config/service.php file
